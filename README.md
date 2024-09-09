@@ -27,8 +27,7 @@ I'm always on the lookout for collaboration opportunities, especially on project
 
 📬 Find Me Here
 
-LinkedIn: Mohammed Bensassi
+LinkedIn: [Mohammed Bensassi](https://www.linkedin.com/in/mohammed-bensassi/)
 
-GitHub: @Mbensassi2026
 
 Email: edwardshallowis227@gmail.com
