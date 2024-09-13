@@ -3,6 +3,7 @@ Mohammed Bensassi | Tech Explorer & Code Enthusiast 💻
 Software developer | Cybersecurity Learner | Tech Enthusiast
 
 🚀 About Me
+
 Hey there! I'm Mohammed, currently pursuing a Bachelor of Science in Computer Science at the College of Staten Island. Between balancing academic challenges and real-world projects, I'm honing my skills across programming languages like Java, C++, and JavaScript while also diving into the world of cybersecurity.
 
 But there's more—I'm passionate about creating interactive and educational experiences through technology. One of my latest projects, Brain Blitz, combines trivia and multiplayer gameplay with real-time interactions and competitive scoring, showcasing my Java expertise. 🚀
