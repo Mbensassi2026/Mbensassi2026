@@ -1,6 +1,4 @@
-Mohammed Bensassi | Tech Explorer & Code Enthusiast 💻
-
-Software developer | Cybersecurity Learner | Tech Enthusiast
+Mohammed Bensassi |Software developer |Tech Explorer & Code Enthusiast 💻
 
 🚀 About Me
 
